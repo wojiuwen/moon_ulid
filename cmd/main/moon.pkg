@@ -1,7 +1,0 @@
-// import {
-//   "username/moon_ulid" @lib,
-// }
-
-options(
-  "is-main": true,
-)
